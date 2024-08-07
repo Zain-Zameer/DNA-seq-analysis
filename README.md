@@ -1,5 +1,5 @@
 # DNA-seq
-
+Author: Muhammad Zain
 ### Databases for variants
 * [Disease Variant Store](https://rvs.u.hpc.mssm.edu/divas/)
 * [The ExAC Browser: Displaying reference data information from over 60,000 exomes](https://github.com/konradjk/exac_browser)
